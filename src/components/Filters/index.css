@@ -1,0 +1,9 @@
+.filter-container {
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 12px;
+}

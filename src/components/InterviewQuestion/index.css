@@ -1,0 +1,23 @@
+.question-container {
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  margin: 20px 0;
+}
+.arrow {
+  margin-left: 15px;
+}
+.filter {
+  color: #0284c7;
+  font-size: 12px;
+  background-color: #9aa5b1;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.button {
+  cursor: pointer;
+}
+.question-heading {
+  font-size: 24px;
+}
